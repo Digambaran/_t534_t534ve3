@@ -1,0 +1,1 @@
+{"name":"t534ve3","type":"ui-elements","source":{"https":"https://github.com/Digambaran/_t534_t534ve3","ssh":"git@github.com:Digambaran/_t534_t534ve3.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
